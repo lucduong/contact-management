@@ -1,0 +1,9 @@
+{
+  "name": "contact-management",
+  "version": "0.1.0",
+  "description": "Contact Management",
+  "main": "index.js",
+  "repository": "git@github.com:lucduong/contact-management.git",
+  "author": "Luc <luc@ltv.vn>",
+  "license": "MIT"
+}
